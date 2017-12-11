@@ -362,6 +362,12 @@ td, th {
     top: 60px;  }
 }
 
+@media (min-width: 616px) {
+  .desktop-hidden {
+    display: none;
+  }
+}
+
 
 @media (max-width: 615px) {
   .mob-hidden {
